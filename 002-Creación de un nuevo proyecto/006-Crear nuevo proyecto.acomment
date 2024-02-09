@@ -1,0 +1,11 @@
+El comando `ng new ejemplomean --standalone false` se utiliza para crear un nuevo proyecto de Angular con Angular CLI. Aquí hay una explicación paso a paso de lo que hace este comando:
+
+1. `ng`: Este es el comando de Angular CLI, que se utiliza para interactuar con Angular CLI desde la línea de comandos.
+
+2. `new`: Es un subcomando de `ng` que se utiliza para crear un nuevo proyecto de Angular.
+
+3. `ejemplomean`: Es el nombre del proyecto que estás creando. En este caso, el proyecto se llamará "ejemplomean".
+
+4. `--standalone false`: Es una bandera (flag) opcional que se utiliza para indicar si el proyecto debe ser creado como una aplicación independiente o como parte de un monorepositorio. Al establecerla en `false`, estás indicando que no quieres que el proyecto sea independiente, lo que significa que se integrará en un monorepositorio existente.
+
+En resumen, al ejecutar este comando, Angular CLI creará un nuevo proyecto de Angular llamado "ejemplomean" y lo configurará para no ser independiente, sino integrarse en un monorepositorio existente si lo hubiera. Esto te proporcionará una estructura inicial de proyecto que puedes desarrollar y gestionar según tus necesidades específicas.

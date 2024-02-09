@@ -1,0 +1,9 @@
+El comando `mkdir proyectosangular` se utiliza para crear un nuevo directorio (carpeta) en el directorio actual con el nombre "proyectosangular".
+
+Aquí tienes una explicación paso a paso:
+
+1. `mkdir`: Es el comando de la línea de comandos que significa "crear directorio". Se utiliza para crear nuevos directorios en el sistema de archivos.
+
+2. `proyectosangular`: Es el nombre del directorio que estás creando. En este caso, estás creando un directorio llamado "proyectosangular".
+
+Después de ejecutar este comando, se creará un nuevo directorio llamado "proyectosangular" en el directorio actual. Ahora podrás utilizar este directorio para almacenar tus proyectos de Angular u otros archivos relacionados con el desarrollo de aplicaciones Angular.

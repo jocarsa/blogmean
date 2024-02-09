@@ -1,0 +1,7 @@
+Después de ejecutar el comando `cd proyectosangular`, el directorio de trabajo actual cambiará al directorio "proyectosangular". Esto significa que ahora estás dentro de la carpeta que acabas de crear y cualquier operación que realices se llevará a cabo dentro de ese directorio.
+
+El comando `cd` se utiliza para cambiar el directorio actual a uno especificado. En este caso, al especificar "proyectosangular", estás cambiando al directorio que acabas de crear.
+
+Ahora, cualquier comando que ejecutes desde este punto en adelante se aplicará al directorio "proyectosangular", a menos que especifiques explícitamente otro directorio.
+
+En resumen, el comando `cd proyectosangular` te permite moverte al directorio "proyectosangular" y empezar a trabajar dentro de él.

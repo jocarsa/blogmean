@@ -1,0 +1,7 @@
+Después de ejecutar el comando `cd ejemplomean`, el directorio de trabajo actual cambiará al directorio del proyecto "ejemplomean". Esto significa que ahora estás dentro del directorio del proyecto que acabas de crear y cualquier operación que realices se llevará a cabo dentro de ese directorio.
+
+El comando `cd` se utiliza para cambiar el directorio actual a uno especificado. En este caso, al especificar "ejemplomean", estás cambiando al directorio del proyecto que acabas de crear.
+
+Ahora, cualquier comando que ejecutes desde este punto en adelante se aplicará al directorio "ejemplomean", lo que te permitirá trabajar en tu proyecto de Angular, como añadir componentes, servicios, módulos, entre otras tareas de desarrollo.
+
+En resumen, el comando `cd ejemplomean` te permite moverte al directorio de tu proyecto de Angular y empezar a trabajar en él.

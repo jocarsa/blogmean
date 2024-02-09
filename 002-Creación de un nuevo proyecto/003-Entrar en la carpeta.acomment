@@ -1,0 +1,9 @@
+El comando `cd Desktop` se utiliza para cambiar el directorio actual a la carpeta "Desktop" en tu sistema de archivos. Esto significa que después de ejecutar este comando, tu terminal estará ubicada en la carpeta "Desktop" y cualquier comando que ejecutes afectará a esa ubicación.
+
+Aquí hay una explicación paso a paso:
+
+1. `cd`: Este es un comando de la línea de comandos que significa "cambiar directorio". Se utiliza para cambiar el directorio actual a uno especificado.
+
+2. `Desktop`: Es el nombre de la carpeta a la que deseas cambiar. En este caso, parece que estás cambiando al directorio "Desktop". Esta carpeta generalmente se encuentra en el directorio principal del usuario y suele ser el lugar donde se guardan los archivos y carpetas visibles en el escritorio de tu sistema operativo.
+
+Después de ejecutar el comando `cd Desktop`, tu terminal mostrará que estás ahora dentro de la carpeta "Desktop", y cualquier operación que realices (como la creación de archivos o la ejecución de comandos relacionados con archivos en esa carpeta) se llevará a cabo dentro de ella.

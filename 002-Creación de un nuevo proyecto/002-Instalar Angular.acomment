@@ -1,0 +1,13 @@
+El comando que has proporcionado, `npm install -g @angular/cli`, se utiliza para instalar Angular CLI (Command Line Interface) de manera global en tu sistema. Angular CLI es una herramienta de línea de comandos que facilita la creación, el desarrollo y la administración de proyectos de Angular.
+
+Aquí tienes una explicación paso a paso de lo que hace este comando:
+
+1. `npm`: Es el administrador de paquetes de Node.js. Node.js es un entorno de tiempo de ejecución de JavaScript que permite ejecutar código JavaScript fuera del navegador web.
+
+2. `install`: Es el comando de npm que se utiliza para instalar paquetes de Node.js.
+
+3. `-g`: Esta opción indica que se instalará el paquete de manera global en tu sistema. Esto significa que podrás acceder a Angular CLI desde cualquier ubicación en tu sistema.
+
+4. `@angular/cli`: Es el paquete de Angular CLI que será instalado. Este paquete contiene todas las herramientas necesarias para trabajar con proyectos de Angular, incluyendo la creación de nuevos proyectos, la generación de componentes, servicios, módulos, entre otras funcionalidades.
+
+Una vez que ejecutas este comando, npm descargará e instalará Angular CLI y todas sus dependencias en tu sistema. Después de la instalación, podrás utilizar el comando `ng` en tu terminal para interactuar con Angular CLI y crear nuevos proyectos de Angular, generar componentes, servicios, módulos, ejecutar el servidor de desarrollo, entre otras tareas relacionadas con el desarrollo de aplicaciones Angular.

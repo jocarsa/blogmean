@@ -1,0 +1,11 @@
+El comando `ng serve` se utiliza para compilar y ejecutar tu aplicación Angular en un servidor de desarrollo local. Aquí hay una explicación de lo que hace este comando:
+
+1. `ng`: Este es el comando de Angular CLI.
+
+2. `serve`: Es un subcomando de `ng` que se utiliza para iniciar el servidor de desarrollo.
+
+Al ejecutar `ng serve`, Angular CLI compilará tu aplicación Angular y la servirá en un servidor local. Esto significa que podrás acceder a tu aplicación a través de un navegador web en la dirección `http://localhost:4200` de tu máquina.
+
+Además de servir tu aplicación, `ng serve` también activa la "vigilancia" (watch) de archivos, lo que significa que cualquier cambio que realices en los archivos de tu proyecto se detectará automáticamente y la aplicación se volverá a compilar y actualizará en el navegador sin necesidad de reiniciar manualmente el servidor.
+
+Este comando es muy útil durante el desarrollo de tu aplicación, ya que te permite ver los cambios en tiempo real y probar tu aplicación a medida que la construyes. Recuerda mantener este comando en ejecución mientras trabajas en tu aplicación para que puedas ver los cambios reflejados instantáneamente en el navegador.
